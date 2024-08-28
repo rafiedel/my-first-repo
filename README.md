@@ -2,3 +2,4 @@
 - **NPM** : 2306245485
 - **Kelas** : PBP B
 - **Hobi** : Turu
+- **Jurusan** : Sistem Informasi
