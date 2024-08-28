@@ -1,3 +1,4 @@
-- **Nama** : Pak Bepe
-- **NPM** : 2201234567
-- **Kelas** : PBP A
+- **Nama** : Rafie Asadel Tarigan
+- **NPM** : 2306245485
+- **Kelas** : PBP B
+- **Hobi** : Turu
